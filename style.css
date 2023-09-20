@@ -17,6 +17,9 @@ header {
     float: right;
 }
 
+.uvod {
+    width: 100%;
+}
 
 h1 {
     color: brown;
@@ -69,7 +72,7 @@ td {
     background-color: burlywood;
     text-align-last: auto;
     text-align: left;
-    border: solid
+    border-style: double;
 }
 
 
@@ -82,7 +85,7 @@ p {
     margin: 5px;
     padding-top: 5px;
     padding-right: 200px;
-    color: rgba(37, 28, 28, 0.986);
+    color: rgba(70, 52, 52, 0.986);
     text-align: left;
     font-size: 18px;    
 }
