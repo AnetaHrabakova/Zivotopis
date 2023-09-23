@@ -61,6 +61,8 @@ img {
     margin-left: 40px;
     margin-top: 50px;
     float: left;
+    position: relative;
+    bottom: 130px;
 }  
 
 th {
